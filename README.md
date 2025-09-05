@@ -13,14 +13,13 @@ MA Strategy - S&P500
 # Result
 - **長期觀察 (2020–2025)**  
   - 單純持股的累積報酬率優於均線策略   
-
 - **短期觀察 (2022–2023 下跌期間)**  
   - 假設在 2022-01-01 市場下跌時進場  
   - 發現此策略具備一定的抗跌效果
 # visulization
-- 長期 (2020 ~ 2025)
+### 長期 (2020 ~ 2025)
 ![Long-run result](plots/LR_result.png)
-- 短期 (2022 ~ 2023)
+### 短期 (2022 ~ 2023)
 ![short-run result](plots/SR_result.png)
 # Conclusion
 - 美股長期趨勢向上，因此單純持股表現優於均線策略  
